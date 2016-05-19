@@ -1,0 +1,4 @@
+See file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-jniX86DebugAllSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniX86DebugAllSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileHello-jniX86DebugAllSharedLibraryHello-jniMainC, see full log file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-jniX86DebugAllSharedLibraryHello-jniMainC/output.txt.

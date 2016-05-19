@@ -1,0 +1,4 @@
+See file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/linkHello-udpX86_64DebugAllSharedLibrary/output.txt for all output for linkHello-udpX86_64DebugAllSharedLibrary.
+linking libhello-udp.so successful.
+
+Finished linkHello-udpX86_64DebugAllSharedLibrary, see full log file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/linkHello-udpX86_64DebugAllSharedLibrary/output.txt.

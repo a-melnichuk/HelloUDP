@@ -1,0 +1,14 @@
+-shared
+-Wl,-soname,libhello-udp.so
+-o
+/home/al/AndroidStudioProjects/HelloUDP/app/build/intermediates/binaries/debug/all/obj/armeabi/libhello-udp.so
+/home/al/AndroidStudioProjects/HelloUDP/app/build/intermediates/objectFiles/armeabiDebugAllSharedLibrary/hello-udpMainC/ch4jrgdnr89qmp73dhmfua84j/hello-udp.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=/home/al/Android/Sdk/ndk-bundle/platforms/android-23/arch-arm
+-Wl,--build-id
+-no-canonical-prefixes
+-landroid
+-llog

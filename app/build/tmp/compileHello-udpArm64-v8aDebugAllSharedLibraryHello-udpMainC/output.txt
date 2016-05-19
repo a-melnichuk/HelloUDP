@@ -1,0 +1,14 @@
+See file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-udpArm64-v8aDebugAllSharedLibraryHello-udpMainC/output.txt for all output for compileHello-udpArm64-v8aDebugAllSharedLibraryHello-udpMainC.
+compiling hello-udp.c successful.
+/home/al/AndroidStudioProjects/HelloUDP/app/src/main/jni/hello-udp.c: In function 'Java_com_example_hellojni_HelloUdp_connectionInfoToJni':
+/home/al/AndroidStudioProjects/HelloUDP/app/src/main/jni/hello-udp.c:97:72: warning: pointer targets in passing argument 6 of 'recvfrom' differ in signedness [-Wpointer-sign]
+         if (recvfrom(s, buf, BUFLEN, 0, (struct sockaddr *) &si_other, &slen) == -1)
+                                                                        ^
+In file included from /home/al/Android/Sdk/ndk-bundle/platforms/android-23/arch-arm64/usr/include/netinet/in.h:34:0,
+                 from /home/al/Android/Sdk/ndk-bundle/platforms/android-23/arch-arm64/usr/include/arpa/inet.h:33,
+                 from /home/al/AndroidStudioProjects/HelloUDP/app/src/main/jni/hello-udp.c:6:
+/home/al/Android/Sdk/ndk-bundle/platforms/android-23/arch-arm64/usr/include/sys/socket.h:292:22: note: expected 'socklen_t *' but argument is of type 'int *'
+ __socketcall ssize_t recvfrom(int, void*, size_t, int, const struct sockaddr*, socklen_t*);
+                      ^
+
+Finished compileHello-udpArm64-v8aDebugAllSharedLibraryHello-udpMainC, see full log file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-udpArm64-v8aDebugAllSharedLibraryHello-udpMainC/output.txt.

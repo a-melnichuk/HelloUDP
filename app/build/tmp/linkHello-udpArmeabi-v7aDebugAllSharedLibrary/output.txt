@@ -1,0 +1,4 @@
+See file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/linkHello-udpArmeabi-v7aDebugAllSharedLibrary/output.txt for all output for linkHello-udpArmeabi-v7aDebugAllSharedLibrary.
+linking libhello-udp.so successful.
+
+Finished linkHello-udpArmeabi-v7aDebugAllSharedLibrary, see full log file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/linkHello-udpArmeabi-v7aDebugAllSharedLibrary/output.txt.

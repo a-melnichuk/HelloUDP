@@ -1,0 +1,4 @@
+See file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-udpArmeabiDebugAllSharedLibraryHello-udpMainC/output.txt for all output for compileHello-udpArmeabiDebugAllSharedLibraryHello-udpMainC.
+compiling hello-udp.c successful.
+
+Finished compileHello-udpArmeabiDebugAllSharedLibraryHello-udpMainC, see full log file:///home/al/AndroidStudioProjects/HelloUDP/app/build/tmp/compileHello-udpArmeabiDebugAllSharedLibraryHello-udpMainC/output.txt.
